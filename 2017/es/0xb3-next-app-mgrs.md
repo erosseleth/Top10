@@ -1,34 +1,34 @@
-# +A: What's next for Application Managers
+# +A: ¿Que sigue para los Administradores de Aplicaciones?
 
-## Manage the full Application Lifecycle
+## Administre el Completo Ciclo de Vida de la Aplicación
 
-Applications are some of the most complex systems humans regularly create and maintain. IT management for an application should be performed by IT specialists who are responsible for the overall IT lifecycle of an application. 
+Las aplicaciones son algunos de los sistemas más complejos que los humanos crean y mantienen regularmente. La administración TI (Tecnología de la Información) para una aplicación debería ser ejecutada por especialistas en TI que sean responsables por el completo ciclo de vida de la misma.
 
-We suggest establishing application owners and application managers for every application to provide accountability, responsibility, consulted and informed (RACI). The application manager is the technical counterpart of the application owner from business perspective and manages the full application lifecycle, including the security of an application, associate data assets, and documentation. This can help with understanding who can sign off risks, who is responsible for including security.
+Sugerimos la designación de propietarios y administradores para cada aplicación a los efectos de proveer (accountability, responsibility, consulted and informed (RACI)). El administrador de la aplicación es la contraparte técnica del propietario de la aplicación desde la perspectiva del negocio y administra el completo ciclo de vida de la aplicación, incluyendo la seguridad de una aplicación, activos de datos asociados, y documentación. Esto puede ayudar a entender quién puede aceptar los riesgos, y quién es responsable de incluir la seguridad.
 
-## Requirements and Resource Management
+## Administración de Requerimientos y Recursos
 
-* Collect and negotiate the business requirements for an application with the business, including receiving the protection requirements in regard to confidentiality, integrity and availability of all data assets
-* Compile the technical requirements including functional and non functional security requirements
-* Plan and negotiate the budget that covers all aspects of design, build, testing and operation, including security activities
+* Recolectar y negociar los requerimientos de negocios para una aplicación, incluyendo la recepción de los requerimientos de protección en vista a la confidencialidad, integridad y disponibilidad de todos los activos de datos.
+* Compilar los requerimientos técnicos incluyendo requerimientos de seguridad funcionales y no funcionales.
+* Planear y negociar el presupuesto que cubre todos los aspectos de diseño, construcción, testeo y operación, incluyendo actividades de seguridad.
 
-## Request for Proposals (RFP) and Contracting
+## Solicitud de Propuestas (RFP por sus siglas en inglés) y su Adopción
 
-* Negotiate with internal or external developers the requirements, including guidelines and security requirements with respect to your security program, e.g. SDLC, best practices
-* Rate the fulfillment of all technical requirements including a rough planning and design
-* Negotiate all technical requirements including design, security and service level agreements (SLA)
-* Consider adopting templates and checklists, such as [OWASP Secure Software Contract Annex](https://www.owasp.org/index.php/OWASP_Secure_Software_Contract_Annex) **NB**: The Annex is a sample specific to US contract law, and is likely to need legal review in your jurisdiction. Please consult qualified legal advice before using the Annex.
+* Negociar los requerimientos con desarrolladores internos y externos, incluyendo lineamientos y requerimientos de seguridad con respecto a su programa de seguridad, p.ej. SDLC, mejores prácticas.
+* Evaluar el cumplimiento de todos los requerimientos técnicos incluyendo un borrador de planeamiento y diseño.
+* Negociar todos los requerimientos técnicos incluyendo diseño, seguridad y acuerdos de nivel de servicio (SLA por sus siglas en inglés).
+* Considere usar plantillas y listas de comprobación, tal como [Anexo de Contrato de Software Seguro de OWASP](https://www.owasp.org/index.php/OWASP_Secure_Software_Contract_Annex) **NB**: El Anexo es un ejemplo específico a las leyes de contrato de EUA, y probablemente necesitará de revisión legale en su jurisdicción. Por favor obtenga consejo legal calificado antes de usar el Anexo.
 
-## Planning and Design
+## Planeamiento y Diseño
 
-* Negotiate planning and design with the developers and internal shareholders, e.g. security specialists
-* Define a security architecture, controls, and countermeasures according the protection needs and the planned environmental security level. This should be supported by security specialists.
-* Get the application owner to assume remaining risks or to provide additional resources.
-* Each sprint, ensure security stories are created for functional requirements, and constraints added for non-functional requirements
+* Negociar el planeamiento y diseño con los desarrolladores e interesados internos, p. ej. especialistas de securidad.
+* Definir una arquitectura de seguridad, controles, y contramedidas de acuerdo a las necesidades de protección y el nivel planeado de seguridad ambiental. Esto debería contar con el soporte de especialistas en seguridad.
+* Haga que el propietario de la aplicación asuma los riesgos remanentes o bien que provea recursos adicionales.
+* En cada etapa, asegúrese de que se crean historiales de seguridad para requerimientos funcionales, y se agreguen restricciones para requerimientos no funcionales.
 
-## Development
+## Desarrollo
 
-* Please review the +D "What's next for developers" for guidance.
+* Por favor revise +D "¿Qué sigue para desarrolladores" para guía.
 
 ## Deployment, Testing and Rollout
 
